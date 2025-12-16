@@ -16,6 +16,11 @@
 ### 🛠 Tech Stack
 !
 ---
+---
 
 ### 📈 GitHub Stats
-![dhruvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dhruvinavdiya&show_icons=true&theme=tokyonight)
+![dhruvi's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamnavdiya&show_icons=true&theme=tokyonight)
+
+![Profile Views](https://komarev.com/ghpvc/?username=satyamnavdiya&color=blue)
+
+
