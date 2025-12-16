@@ -1,4 +1,4 @@
-# Hi 👋 I'm Satyam Navdiya
+# Hi 👋 I'm Dhruvi Navdiya
 
 🚀 **Full Stack Developer** | 💼 Working at Codespire Surat  
 
@@ -8,7 +8,7 @@
 - 🔭 I'm currently working on **Next.js, GSAP, and MERN projects**
 - 🌱 I'm learning **modern frontend animation & full-stack scalability**
 - 💬 Ask me about **Next.js, React, MongoDB, Express, GSAP**
-- 📫 Reach me at: **satyamnavdiya@gmail.com**
+- 📫 Reach me at: **dhruvinavdiya@gmail.com**
 - ⚡ Fun fact: *I animate pixels and caffeinate bugs ☕*
 
 ---
