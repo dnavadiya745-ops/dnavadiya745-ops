@@ -15,3 +15,7 @@
 
 ### 🛠 Tech Stack
 !
+---
+
+### 📈 GitHub Stats
+![Satyam's GitHub stats](https://github-readme-stats.vercel.app/api?username=satyamnavdiya&show_icons=true&theme=tokyonight)
