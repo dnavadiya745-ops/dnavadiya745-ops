@@ -71,6 +71,4 @@
   <img src="https://komarev.com/ghpvc/?username=satyamnavdiya&label=Profile+Views&color=blue&style=flat" />
 </p>
 
-<p align="center">
-  ⭐️ From <a href="https://github.com/satyamnavdiya">Satyam Navdiya</a>
-</p>
+
