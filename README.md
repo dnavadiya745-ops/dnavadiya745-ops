@@ -1,12 +1,6 @@
-<!-- Typing Animation -->
-
-
----
-
 ## 🚀 About Me
 - 💻 Full Stack Developer (MERN & Next.js)
 - 🎨 Love **GSAP animations & modern UI**
-- 🏢 Working at **Codespire Surat**
 - 🌱 Learning scalable full-stack architecture
 - ☕ Fun fact: *I animate pixels & caffeinate bugs*
 
@@ -27,46 +21,18 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=satyamnavdiya&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=satyamnavdiya&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamnavdiya&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satyamnavdiya&theme=darkhub&no-frame=true&row=1" />
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 <p align="center">
-  <a href="https://github.com/satyamnavdiya">
+  <a href="https://github.com/dnavadiya745-ops">
     <img src="https://skillicons.dev/icons?i=github" />
   </a>
-  <a href="https://linkedin.com">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  <a href="mailto:satyamnavdiya@gmail.com">
+   <a href="mailto:dnavadiya745@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamnavdiya&label=Profile+Views&color=blue&style=flat" />
-</p>
 
 
